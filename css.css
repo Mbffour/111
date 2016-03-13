@@ -1,0 +1,125 @@
+
+.cl{
+	clear: both;
+}
+span{
+	font-size: 60px;
+}
+.botto img{
+	margin: 600px 49% ;
+
+}
+.botto2 img{
+	margin: 150px 49% ;
+
+}
+.botto3 img{	
+    margin: -190px 41%;
+}
+.botto4 img{
+	margin: 30px 49%;
+}
+hr{
+	width: 300px;
+
+}
+#top{
+	height:750px;
+	width: 100%;
+	background-image: url(./imge/top_bg.jpg); 
+	background-size: 65%;
+	background-position: center -100px;	
+}
+#nav{
+	height: 80px;
+	float: right;
+	width: 100%;
+	background: #ffcc33;
+	opacity: 0.3;
+}
+#nav ul li a.hover{
+	font-size: 45px;
+	color: red;}
+#nav li a{
+	float: right;
+	font-size: 35px;
+	padding-right: 60px;
+	line-height: 80px;
+	text-decoration: none;
+	display: block;
+}
+#nav>a.hover{
+	color: white;
+}
+
+#nav>a{
+	font-size: 35px;
+	line-height:80px;
+	padding-left: 40px;
+	text-decoration: none;
+}
+#main1{
+	height: 900px;
+	background:#ccffff;
+	margin: auto;
+}
+ h3{
+	text-align: center;
+	font-size: 60px;
+    padding-top: 100px;
+
+}
+#main1 p{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 30px;
+	line-height: 100px;
+}
+#main2{
+	height: 900px;
+	width: 100%;
+	background:#ccff66;
+} 
+#main2 div{
+	float: left;
+	width: 500px;
+	height: 600px;
+	margin-left: 100px;
+	text-align: center;
+	font-size: 50px;
+	font-weight: 700;
+
+
+}
+#main2 img{
+	padding: 120px 150px;
+	
+}
+#tubiao{
+	margin: -40px -50px;
+}
+#footer{
+    width: 100%;
+    height: 570px;
+    background: #fdf2b0;
+    overflow: hidden;
+   
+   
+
+}
+#footer div{
+	width:33%;
+	height: 100%;
+	float: left;
+	margin-left: 2px;
+	text-align: center;
+}
+#footer p{
+	line-height: 300px;
+	font-size: 40px;
+}
+#asd{
+	height: 200px;
+	width: 100px;
+	background: red;
+}
